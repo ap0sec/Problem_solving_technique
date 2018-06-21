@@ -1,0 +1,5 @@
+* Problem_solving_technique
+** neck_control
+In this directory, the source code of the program which controls movement of the neck (incomplete) is placed.
+** sample
+In this directory, sample code for checking operation of servomotor and acceleration sensor is placed.
